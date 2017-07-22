@@ -1,0 +1,29 @@
+{
+  "name": "manualbootstrap",
+  "version": "1.0.0",
+  "description": "Boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravinkumar R. D.",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.0.3",
+    "@angular/compiler": "^4.0.3",
+    "@angular/core": "^4.0.3",
+    "@angular/forms": "^4.0.3",
+    "@angular/http": "^4.0.3",
+    "@angular/platform-browser": "^4.0.3",
+    "@angular/platform-browser-dynamic": "^4.0.3",
+    "@angular/router": "^4.0.3",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.3.0",
+    "systemjs": "^0.20.12",
+    "zone.js": "^0.8.8"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.13",
+    "typescript": "^2.2.2"
+  }
+}
